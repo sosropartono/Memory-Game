@@ -40,15 +40,11 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+![2024-03-22 23 27 42](https://github.com/sosropartono/Memory-Game/assets/66928465/a8ffff7c-73af-48dc-ac50-d76db01a1691)
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 
 ## License
 
